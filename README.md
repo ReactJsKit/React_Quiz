@@ -10,6 +10,6 @@
   
  ### Steps to run the Quiz App.
  
- ### 1. ``` Download the App. ```
+ ### 1. ``` Download the Code ```
  ### 2. ``` npm install ```
  ### 3. ``` npm start ```
